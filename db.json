@@ -1,0 +1,28 @@
+{
+    "poems" : [
+        {
+            "author": "Laura Hershey",
+            "body": "The city's renting special vans,\nthe daily paper reads,",
+            "dateAdded": "27-07-2023",
+            "id":1
+        },
+        {
+            "author": "Natasha Rao",
+            "body": "Despite my efforts to remain indifferent, I hate that my boyfriend has dated girls with names I use all the time, ",
+            "dateAdded": "27-07-2023",
+            "id":2
+        },
+        {
+            "author": "Sylvia Plath",
+            "body": "First, are you our sort of a person?\nDo you wear",
+            "dateAdded": "27-07-2023",
+            "id":3
+        },
+        {
+            "author": "Sandra Haight",
+            "body": "Computer age impasse...the strength of one\n            the fear of stroke of midnight had begun.",
+            "dateAdded": "27-07-2023",
+            "id":4
+        }
+    ]
+}
